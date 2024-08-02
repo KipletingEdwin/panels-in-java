@@ -13,8 +13,8 @@ public class Main {
         JLabel label = new JLabel();
         label.setText("Hi");
         label.setIcon(image);
-        label.setVerticalAlignment(JLabel.TOP);
-        label.setHorizontalAlignment(JLabel.CENTER);
+//        label.setVerticalAlignment(JLabel.TOP);
+//        label.setHorizontalAlignment(JLabel.CENTER);
         label.setBounds(0,0,75,75);
 
         JPanel redPanel = new JPanel();
